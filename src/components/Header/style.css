@@ -1,0 +1,13 @@
+.page-header {
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.btn-mode {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
