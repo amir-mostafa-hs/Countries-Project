@@ -1,0 +1,1508 @@
+[
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "tld": [".do"],
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "cioc": "DOM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DOP": {
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": ["809", "829", "849"]
+    },
+    "capital": ["Santo Domingo"],
+    "altSpellings": ["DO"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الدومينيكان",
+        "common": "جمهورية الدومينيكان"
+      },
+      "ces": {
+        "official": "Dominikánská republika",
+        "common": "Dominikánská republika"
+      },
+      "cym": {
+        "official": "Gweriniaeth Dominica",
+        "common": "Gweriniaeth Dominica"
+      },
+      "deu": {
+        "official": "Dominikanische Republik",
+        "common": "Dominikanische Republik"
+      },
+      "est": {
+        "official": "Dominikaani Vabariik",
+        "common": "Dominikaani Vabariik"
+      },
+      "fin": {
+        "official": "Dominikaaninen tasavalta",
+        "common": "Dominikaaninen tasavalta"
+      },
+      "fra": {
+        "official": "République Dominicaine",
+        "common": "République dominicaine"
+      },
+      "hrv": {
+        "official": "Dominikanska Republika",
+        "common": "Dominikanska Republika"
+      },
+      "hun": {
+        "official": "Dominikai Köztársaság",
+        "common": "Dominikai Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica Dominicana",
+        "common": "Repubblica Dominicana"
+      },
+      "jpn": {
+        "official": "ドミニカ共和国",
+        "common": "ドミニカ共和国"
+      },
+      "kor": {
+        "official": "도미니카 공화국",
+        "common": "도미니카 공화국"
+      },
+      "nld": {
+        "official": "Dominicaanse Republiek",
+        "common": "Dominicaanse Republiek"
+      },
+      "per": {
+        "official": "جمهوری دومینیکن",
+        "common": "جمهوری دومینیکن"
+      },
+      "pol": {
+        "official": "Republika Dominikańska",
+        "common": "Dominikana"
+      },
+      "por": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "rus": {
+        "official": "Доминиканская Республика",
+        "common": "Доминиканская Республика"
+      },
+      "slk": {
+        "official": "Dominikánska republika",
+        "common": "Dominikánska republika"
+      },
+      "spa": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "swe": {
+        "official": "Dominikanska republiken",
+        "common": "Dominikanska republiken"
+      },
+      "urd": {
+        "official": "جمہوریہ ڈومینیکن",
+        "common": "ڈومینیکن"
+      },
+      "zho": {
+        "official": "多明尼加共和国",
+        "common": "多明尼加"
+      }
+    },
+    "latlng": [19, -70.66666666],
+    "landlocked": false,
+    "borders": ["HTI"],
+    "area": 48671,
+    "demonyms": {
+      "eng": {
+        "f": "Dominican",
+        "m": "Dominican"
+      },
+      "fra": {
+        "f": "Dominicaine",
+        "m": "Dominicain"
+      }
+    },
+    "flag": "🇩🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+    },
+    "population": 10847904,
+    "gini": {
+      "2019": 41.9
+    },
+    "fifa": "DOM",
+    "car": {
+      "signs": ["DOM"],
+      "side": "right"
+    },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [18.47, -69.9]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Heard Island and McDonald Islands",
+          "common": "Heard Island and McDonald Islands"
+        }
+      }
+    },
+    "tld": [".hm", ".aq"],
+    "cca2": "HM",
+    "ccn3": "334",
+    "cca3": "HMD",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "idd": {},
+    "altSpellings": ["HM", "Heard Island and McDonald Islands"],
+    "region": "Antarctic",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جزيرة هيرد وجزر ماكدونالد",
+        "common": "جزيرة هيرد وجزر ماكدونالد"
+      },
+      "ces": {
+        "official": "Heardův ostrov a McDonaldovy ostrovy",
+        "common": "Heardův ostrov a McDonaldovy ostrovy"
+      },
+      "cym": {
+        "official": "Heard Island and McDonald Islands",
+        "common": "Heard Island and McDonald Islands"
+      },
+      "deu": {
+        "official": "Heard und McDonaldinseln",
+        "common": "Heard und die McDonaldinseln"
+      },
+      "est": {
+        "official": "Heardi ja McDonaldi saarte ala",
+        "common": "Heard ja McDonald"
+      },
+      "fin": {
+        "official": "Heard ja McDonaldinsaaret",
+        "common": "Heard ja McDonaldinsaaret"
+      },
+      "fra": {
+        "official": "Des îles Heard et McDonald",
+        "common": "Îles Heard-et-MacDonald"
+      },
+      "hrv": {
+        "official": "Otok Heard i otočje McDonald",
+        "common": "Otok Heard i otočje McDonald"
+      },
+      "hun": {
+        "official": "Heard-sziget és McDonald-szigetek",
+        "common": "Heard-sziget és McDonald-szigetek"
+      },
+      "ita": {
+        "official": "Isole Heard e McDonald",
+        "common": "Isole Heard e McDonald"
+      },
+      "jpn": {
+        "official": "ハード島とマクドナルド諸島",
+        "common": "ハード島とマクドナルド諸島"
+      },
+      "kor": {
+        "official": "허드 맥도널드 제도",
+        "common": "허드 맥도널드 제도"
+      },
+      "nld": {
+        "official": "Heard en McDonaldeilanden",
+        "common": "Heard-en McDonaldeilanden"
+      },
+      "per": {
+        "official": "جزیره هرد و جزایر مک‌دونالد",
+        "common": "جزیره هرد و جزایر مک‌دونالد"
+      },
+      "pol": {
+        "official": "Terytorium Wysp Heard i McDonalda",
+        "common": "Wyspy Heard i McDonalda"
+      },
+      "por": {
+        "official": "Ilha Heard e Ilhas McDonald",
+        "common": "Ilha Heard e Ilhas McDonald"
+      },
+      "rus": {
+        "official": "Остров Херд и острова Макдональд",
+        "common": "Остров Херд и острова Макдональд"
+      },
+      "slk": {
+        "official": "Teritórium Heardovho ostrova a Macdonaldových ostrovov",
+        "common": "Heardov ostrov"
+      },
+      "spa": {
+        "official": "Islas Heard y McDonald",
+        "common": "Islas Heard y McDonald"
+      },
+      "swe": {
+        "official": "Heard- och McDonaldöarna",
+        "common": "Heard- och McDonaldöarna"
+      },
+      "urd": {
+        "official": "جزیرہ ہرڈ و جزائر مکڈونلڈ",
+        "common": "جزیرہ ہرڈ و جزائر مکڈونلڈ"
+      },
+      "zho": {
+        "official": "赫德岛和麦当劳群岛",
+        "common": "赫德岛和麦当劳群岛"
+      }
+    },
+    "latlng": [-53.1, 72.51666666],
+    "landlocked": false,
+    "area": 412,
+    "demonyms": {
+      "eng": {
+        "f": "Heard and McDonald Islander",
+        "m": "Heard and McDonald Islander"
+      }
+    },
+    "flag": "🇭🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177227"
+    },
+    "population": 0,
+    "car": {
+      "signs": [""],
+      "side": "right"
+    },
+    "timezones": ["UTC+05:00"],
+    "continents": ["Antarctica"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hm.png",
+      "svg": "https://flagcdn.com/hm.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {}
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ghana",
+          "common": "Ghana"
+        }
+      }
+    },
+    "tld": [".gh"],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": ["33"]
+    },
+    "capital": ["Accra"],
+    "altSpellings": ["GH"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية غانا",
+        "common": "غانا"
+      },
+      "ces": {
+        "official": "Ghanská republika",
+        "common": "Ghana"
+      },
+      "cym": {
+        "official": "Republic of Ghana",
+        "common": "Ghana"
+      },
+      "deu": {
+        "official": "Republik Ghana",
+        "common": "Ghana"
+      },
+      "est": {
+        "official": "Ghana Vabariik",
+        "common": "Ghana"
+      },
+      "fin": {
+        "official": "Ghanan tasavalta",
+        "common": "Ghana"
+      },
+      "fra": {
+        "official": "République du Ghana",
+        "common": "Ghana"
+      },
+      "hrv": {
+        "official": "Republika Gana",
+        "common": "Gana"
+      },
+      "hun": {
+        "official": "Ghánai Köztársaság",
+        "common": "Ghána"
+      },
+      "ita": {
+        "official": "Repubblica del Ghana",
+        "common": "Ghana"
+      },
+      "jpn": {
+        "official": "ガーナ共和国",
+        "common": "ガーナ"
+      },
+      "kor": {
+        "official": "가나 공화국",
+        "common": "가나"
+      },
+      "nld": {
+        "official": "Republiek Ghana",
+        "common": "Ghana"
+      },
+      "per": {
+        "official": "جمهوری غنا",
+        "common": "غنا"
+      },
+      "pol": {
+        "official": "Republika Ghany",
+        "common": "Ghana"
+      },
+      "por": {
+        "official": "República do Gana",
+        "common": "Gana"
+      },
+      "rus": {
+        "official": "Республика Гана",
+        "common": "Гана"
+      },
+      "slk": {
+        "official": "Ghanská republika",
+        "common": "Ghana"
+      },
+      "spa": {
+        "official": "República de Ghana",
+        "common": "Ghana"
+      },
+      "swe": {
+        "official": "Republiken Ghana",
+        "common": "Ghana"
+      },
+      "urd": {
+        "official": "جمہوریہ گھانا",
+        "common": "گھانا"
+      },
+      "zho": {
+        "official": "加纳共和国",
+        "common": "加纳"
+      }
+    },
+    "latlng": [8, -2],
+    "landlocked": false,
+    "borders": ["BFA", "CIV", "TGO"],
+    "area": 238533,
+    "demonyms": {
+      "eng": {
+        "f": "Ghanaian",
+        "m": "Ghanaian"
+      },
+      "fra": {
+        "f": "Ghanéenne",
+        "m": "Ghanéen"
+      }
+    },
+    "flag": "🇬🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+    },
+    "population": 31072945,
+    "gini": {
+      "2016": 43.5
+    },
+    "fifa": "GHA",
+    "car": {
+      "signs": ["GH"],
+      "side": "right"
+    },
+    "timezones": ["UTC"],
+    "continents": ["Africa"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gh.png",
+      "svg": "https://flagcdn.com/gh.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [5.55, -0.22]
+    }
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "tld": [".it"],
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "cioc": "ITA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": ["9"]
+    },
+    "capital": ["Rome"],
+    "altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الإيطالية",
+        "common": "إيطاليا"
+      },
+      "ces": {
+        "official": "Italská republika",
+        "common": "Itálie"
+      },
+      "cym": {
+        "official": "Italian Republic",
+        "common": "Italy"
+      },
+      "deu": {
+        "official": "Italienische Republik",
+        "common": "Italien"
+      },
+      "est": {
+        "official": "Itaalia Vabariik",
+        "common": "Itaalia"
+      },
+      "fin": {
+        "official": "Italian tasavalta",
+        "common": "Italia"
+      },
+      "fra": {
+        "official": "République italienne",
+        "common": "Italie"
+      },
+      "hrv": {
+        "official": "talijanska Republika",
+        "common": "Italija"
+      },
+      "hun": {
+        "official": "Olasz Köztársaság",
+        "common": "Olaszország"
+      },
+      "ita": {
+        "official": "Repubblica italiana",
+        "common": "Italia"
+      },
+      "jpn": {
+        "official": "イタリア共和国",
+        "common": "イタリア"
+      },
+      "kor": {
+        "official": "이탈리아 공화국",
+        "common": "이탈리아"
+      },
+      "nld": {
+        "official": "Italiaanse Republiek",
+        "common": "Italië"
+      },
+      "per": {
+        "official": "جمهوری ایتالیا",
+        "common": "ایتالیا"
+      },
+      "pol": {
+        "official": "Republika Włoska",
+        "common": "Włochy"
+      },
+      "por": {
+        "official": "República Italiana",
+        "common": "Itália"
+      },
+      "rus": {
+        "official": "итальянская Республика",
+        "common": "Италия"
+      },
+      "slk": {
+        "official": "Talianska republika",
+        "common": "Taliansko"
+      },
+      "spa": {
+        "official": "República Italiana",
+        "common": "Italia"
+      },
+      "swe": {
+        "official": "Republiken Italien",
+        "common": "Italien"
+      },
+      "urd": {
+        "official": "جمہوریہ اطالیہ",
+        "common": "اطالیہ"
+      },
+      "zho": {
+        "official": "意大利共和国",
+        "common": "意大利"
+      }
+    },
+    "latlng": [42.83333333, 12.83333333],
+    "landlocked": false,
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "area": 301336,
+    "demonyms": {
+      "eng": {
+        "f": "Italian",
+        "m": "Italian"
+      },
+      "fra": {
+        "f": "Italienne",
+        "m": "Italien"
+      }
+    },
+    "flag": "🇮🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    },
+    "population": 59554023,
+    "gini": {
+      "2017": 35.9
+    },
+    "fifa": "ITA",
+    "car": {
+      "signs": ["I"],
+      "side": "right"
+    },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [41.9, 12.48]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "nativeName": {
+        "khm": {
+          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "common": "Kâmpŭchéa"
+        }
+      }
+    },
+    "tld": [".kh"],
+    "cca2": "KH",
+    "ccn3": "116",
+    "cca3": "KHM",
+    "cioc": "CAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KHR": {
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": ["55"]
+    },
+    "capital": ["Phnom Penh"],
+    "altSpellings": ["KH", "Kingdom of Cambodia"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "khm": "Khmer"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة كمبوديا",
+        "common": "كمبوديا"
+      },
+      "ces": {
+        "official": "Kambodžské království",
+        "common": "Kambodža"
+      },
+      "cym": {
+        "official": "Teyrnas Cambodia",
+        "common": "Cambodia"
+      },
+      "deu": {
+        "official": "Königreich Kambodscha",
+        "common": "Kambodscha"
+      },
+      "est": {
+        "official": "Kambodža Kuningriik",
+        "common": "Kambodža"
+      },
+      "fin": {
+        "official": "Kambodžan kuningaskunta",
+        "common": "Kambodža"
+      },
+      "fra": {
+        "official": "Royaume du Cambodge",
+        "common": "Cambodge"
+      },
+      "hrv": {
+        "official": "Kraljevina Kambodža",
+        "common": "Kambodža"
+      },
+      "hun": {
+        "official": "Kambodzsai Királyság",
+        "common": "Kambodzsa"
+      },
+      "ita": {
+        "official": "Regno di Cambogia",
+        "common": "Cambogia"
+      },
+      "jpn": {
+        "official": "カンボジア王国",
+        "common": "カンボジア"
+      },
+      "kor": {
+        "official": "캄보디아 왕국",
+        "common": "캄보디아"
+      },
+      "nld": {
+        "official": "Koninkrijk Cambodja",
+        "common": "Cambodja"
+      },
+      "per": {
+        "official": "پادشاهی کامبوج",
+        "common": "کامبوج"
+      },
+      "pol": {
+        "official": "Królestwo Kambodży",
+        "common": "Kambodża"
+      },
+      "por": {
+        "official": "Reino do Camboja",
+        "common": "Camboja"
+      },
+      "rus": {
+        "official": "Королевство Камбоджа",
+        "common": "Камбоджа"
+      },
+      "slk": {
+        "official": "Kamboǆské kráľovstvo",
+        "common": "Kamboǆa"
+      },
+      "spa": {
+        "official": "Reino de Camboya",
+        "common": "Camboya"
+      },
+      "swe": {
+        "official": "Konungariket Kambodja",
+        "common": "Kambodja"
+      },
+      "urd": {
+        "official": "مملکتِ کمبوڈیا",
+        "common": "کمبوڈیا"
+      },
+      "zho": {
+        "official": "柬埔寨王国",
+        "common": "柬埔寨"
+      }
+    },
+    "latlng": [13, 105],
+    "landlocked": false,
+    "borders": ["LAO", "THA", "VNM"],
+    "area": 181035,
+    "demonyms": {
+      "eng": {
+        "f": "Cambodian",
+        "m": "Cambodian"
+      },
+      "fra": {
+        "f": "Cambodgienne",
+        "m": "Cambodgien"
+      }
+    },
+    "flag": "🇰🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+    },
+    "population": 16718971,
+    "fifa": "CAM",
+    "car": {
+      "signs": ["K"],
+      "side": "right"
+    },
+    "timezones": ["UTC+07:00"],
+    "continents": ["Asia"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kh.png",
+      "svg": "https://flagcdn.com/kh.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [11.55, 104.92]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain",
+      "nativeName": {
+        "ara": {
+          "official": "مملكة البحرين",
+          "common": "‏البحرين"
+        }
+      }
+    },
+    "tld": [".bh"],
+    "cca2": "BH",
+    "ccn3": "048",
+    "cca3": "BHR",
+    "cioc": "BRN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BHD": {
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": ["73"]
+    },
+    "capital": ["Manama"],
+    "altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Baḥrayn"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة البحرين",
+        "common": "‏البحرين"
+      },
+      "ces": {
+        "official": "Království Bahrajn",
+        "common": "Bahrajn"
+      },
+      "cym": {
+        "official": "Teyrnas Bahrein",
+        "common": "Bahrain"
+      },
+      "deu": {
+        "official": "Königreich Bahrain",
+        "common": "Bahrain"
+      },
+      "est": {
+        "official": "Bahreini Kuningriik",
+        "common": "Bahrein"
+      },
+      "fin": {
+        "official": "Bahrainin kuningaskunta",
+        "common": "Bahrain"
+      },
+      "fra": {
+        "official": "Royaume de Bahreïn",
+        "common": "Bahreïn"
+      },
+      "hrv": {
+        "official": "Kraljevina Bahrein",
+        "common": "Bahrein"
+      },
+      "hun": {
+        "official": "Bahreini Királyság",
+        "common": "Bahrein"
+      },
+      "ita": {
+        "official": "Regno del Bahrain",
+        "common": "Bahrein"
+      },
+      "jpn": {
+        "official": "バーレーン王国",
+        "common": "バーレーン"
+      },
+      "kor": {
+        "official": "바레인 왕국",
+        "common": "바레인"
+      },
+      "nld": {
+        "official": "Koninkrijk Bahrein",
+        "common": "Bahrein"
+      },
+      "per": {
+        "official": "پادشاهی بحرین",
+        "common": "بحرین"
+      },
+      "pol": {
+        "official": "Królestwo Bahrajnu",
+        "common": "Bahrajn"
+      },
+      "por": {
+        "official": "Reino do Bahrein",
+        "common": "Bahrein"
+      },
+      "rus": {
+        "official": "Королевство Бахрейн",
+        "common": "Бахрейн"
+      },
+      "slk": {
+        "official": "Bahrajnské kráľovstvo",
+        "common": "Bahrajn"
+      },
+      "spa": {
+        "official": "Reino de Bahrein",
+        "common": "Bahrein"
+      },
+      "swe": {
+        "official": "Konungariket Bahrain",
+        "common": "Bahrain"
+      },
+      "urd": {
+        "official": "مملکتِ بحرین",
+        "common": "بحرین"
+      },
+      "zho": {
+        "official": "巴林王国",
+        "common": "巴林"
+      }
+    },
+    "latlng": [26, 50.55],
+    "landlocked": false,
+    "area": 765,
+    "demonyms": {
+      "eng": {
+        "f": "Bahraini",
+        "m": "Bahraini"
+      },
+      "fra": {
+        "f": "Bahreïnienne",
+        "m": "Bahreïnien"
+      }
+    },
+    "flag": "🇧🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
+    },
+    "population": 1701583,
+    "fifa": "BHR",
+    "car": {
+      "signs": ["BRN"],
+      "side": "right"
+    },
+    "timezones": ["UTC+03:00"],
+    "continents": ["Asia"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bh.png",
+      "svg": "https://flagcdn.com/bh.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [26.23, 50.57]
+    },
+    "postalCode": {
+      "format": "####|###",
+      "regex": "^(\\d{3}\\d?)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel",
+      "nativeName": {
+        "ara": {
+          "official": "دولة إسرائيل",
+          "common": "إسرائيل"
+        },
+        "heb": {
+          "official": "מדינת ישראל",
+          "common": "ישראל"
+        }
+      }
+    },
+    "tld": [".il"],
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "cioc": "ISR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": ["72"]
+    },
+    "capital": ["Jerusalem"],
+    "altSpellings": ["IL", "State of Israel", "Medīnat Yisrā'el"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة إسرائيل",
+        "common": "إسرائيل"
+      },
+      "ces": {
+        "official": "Stát Izrael",
+        "common": "Izrael"
+      },
+      "cym": {
+        "official": "State of Israel",
+        "common": "Israel"
+      },
+      "deu": {
+        "official": "Staat Israel",
+        "common": "Israel"
+      },
+      "est": {
+        "official": "Iisraeli Riik",
+        "common": "Iisrael"
+      },
+      "fin": {
+        "official": "Israelin valtio",
+        "common": "Israel"
+      },
+      "fra": {
+        "official": "État d'Israël",
+        "common": "Israël"
+      },
+      "hrv": {
+        "official": "Država Izrael",
+        "common": "Izrael"
+      },
+      "hun": {
+        "official": "Izrael",
+        "common": "Izrael"
+      },
+      "ita": {
+        "official": "Stato di Israele",
+        "common": "Israele"
+      },
+      "jpn": {
+        "official": "イスラエル国",
+        "common": "イスラエル"
+      },
+      "kor": {
+        "official": "이스라엘국",
+        "common": "이스라엘"
+      },
+      "nld": {
+        "official": "Staat Israël",
+        "common": "Israël"
+      },
+      "per": {
+        "official": "فلسطين اشغالی",
+        "common": "فلسطين اشغالی"
+      },
+      "pol": {
+        "official": "Państwo Izrael",
+        "common": "Izrael"
+      },
+      "por": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "rus": {
+        "official": "Государство Израиль",
+        "common": "Израиль"
+      },
+      "slk": {
+        "official": "Izraelský štát",
+        "common": "Izrael"
+      },
+      "spa": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "swe": {
+        "official": "Staten Israel",
+        "common": "Israel"
+      },
+      "urd": {
+        "official": "ریاستِ اسرائیل",
+        "common": "اسرائیل"
+      },
+      "zho": {
+        "official": "以色列国",
+        "common": "以色列"
+      }
+    },
+    "latlng": [31.47, 35.13],
+    "landlocked": false,
+    "borders": ["EGY", "JOR", "LBN", "PSE", "SYR"],
+    "area": 20770,
+    "demonyms": {
+      "eng": {
+        "f": "Israeli",
+        "m": "Israeli"
+      },
+      "fra": {
+        "f": "Israélienne",
+        "m": "Israélien"
+      }
+    },
+    "flag": "🇮🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    },
+    "population": 9216900,
+    "gini": {
+      "2016": 39
+    },
+    "fifa": "ISR",
+    "car": {
+      "signs": ["IL"],
+      "side": "right"
+    },
+    "timezones": ["UTC+02:00"],
+    "continents": ["Asia"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [31.77, 35.23]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "nativeName": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "tld": [".qa", "قطر."],
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "QAR": {
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": ["74"]
+    },
+    "capital": ["Doha"],
+    "altSpellings": ["QA", "State of Qatar", "Dawlat Qaṭar"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة قطر",
+        "common": "قطر"
+      },
+      "ces": {
+        "official": "Stát Katar",
+        "common": "Katar"
+      },
+      "cym": {
+        "official": "State of Qatar",
+        "common": "Qatar"
+      },
+      "deu": {
+        "official": "Staat Katar",
+        "common": "Katar"
+      },
+      "est": {
+        "official": "Katari Riik",
+        "common": "Katar"
+      },
+      "fin": {
+        "official": "Qatarin valtio",
+        "common": "Qatar"
+      },
+      "fra": {
+        "official": "État du Qatar",
+        "common": "Qatar"
+      },
+      "hrv": {
+        "official": "Država Katar",
+        "common": "Katar"
+      },
+      "hun": {
+        "official": "Katari Állam",
+        "common": "Katar"
+      },
+      "ita": {
+        "official": "Stato del Qatar",
+        "common": "Qatar"
+      },
+      "jpn": {
+        "official": "カタール国",
+        "common": "カタール"
+      },
+      "kor": {
+        "official": "카타르국",
+        "common": "카타르"
+      },
+      "nld": {
+        "official": "Staat Qatar",
+        "common": "Qatar"
+      },
+      "per": {
+        "official": "دولت قطر",
+        "common": "قطر"
+      },
+      "pol": {
+        "official": "Państwo Katar",
+        "common": "Katar"
+      },
+      "por": {
+        "official": "Estado do Qatar",
+        "common": "Catar"
+      },
+      "rus": {
+        "official": "Государство Катар",
+        "common": "Катар"
+      },
+      "slk": {
+        "official": "Katarský štát",
+        "common": "Katar"
+      },
+      "spa": {
+        "official": "Estado de Qatar",
+        "common": "Catar"
+      },
+      "swe": {
+        "official": "Staten Qatar",
+        "common": "Qatar"
+      },
+      "urd": {
+        "official": "ریاستِ قطر",
+        "common": "قطر"
+      },
+      "zho": {
+        "official": "卡塔尔国",
+        "common": "卡塔尔"
+      }
+    },
+    "latlng": [25.5, 51.25],
+    "landlocked": false,
+    "borders": ["SAU"],
+    "area": 11586,
+    "demonyms": {
+      "eng": {
+        "f": "Qatari",
+        "m": "Qatari"
+      },
+      "fra": {
+        "f": "Qatarienne",
+        "m": "Qatarien"
+      }
+    },
+    "flag": "🇶🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
+    },
+    "population": 2881060,
+    "fifa": "QAT",
+    "car": {
+      "signs": ["Q"],
+      "side": "right"
+    },
+    "timezones": ["UTC+03:00"],
+    "continents": ["Asia"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/qa.png",
+      "svg": "https://flagcdn.com/qa.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [25.28, 51.53]
+    }
+  },
+  {
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Turks and Caicos Islands",
+          "common": "Turks and Caicos Islands"
+        }
+      }
+    },
+    "tld": [".tc"],
+    "cca2": "TC",
+    "ccn3": "796",
+    "cca3": "TCA",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": ["649"]
+    },
+    "capital": ["Cockburn Town"],
+    "altSpellings": ["TC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جزر توركس وكايكوس",
+        "common": "جزر توركس وكايكوس"
+      },
+      "ces": {
+        "official": "Turks a Caicos",
+        "common": "Turks a Caicos"
+      },
+      "cym": {
+        "official": "Turks and Caicos Islands",
+        "common": "Turks and Caicos Islands"
+      },
+      "deu": {
+        "official": "Turks und Caicos Inseln",
+        "common": "Turks-und Caicosinseln"
+      },
+      "est": {
+        "official": "Turksi ja Caicose saared",
+        "common": "Turks ja Caicos"
+      },
+      "fin": {
+        "official": "Turks-ja Caicossaaret",
+        "common": "Turks-ja Caicossaaret"
+      },
+      "fra": {
+        "official": "Îles Turques et Caïques",
+        "common": "Îles Turques-et-Caïques"
+      },
+      "hrv": {
+        "official": "Otoci Turks i Caicos",
+        "common": "Otoci Turks i Caicos"
+      },
+      "hun": {
+        "official": "Turks- és Caicos-szigetek",
+        "common": "Turks- és Caicos-szigetek"
+      },
+      "ita": {
+        "official": "Turks e Caicos",
+        "common": "Isole Turks e Caicos"
+      },
+      "jpn": {
+        "official": "タークス·カイコス諸島",
+        "common": "タークス・カイコス諸島"
+      },
+      "kor": {
+        "official": "터크스 케이커스 제도",
+        "common": "터크스 케이커스 제도"
+      },
+      "nld": {
+        "official": "Turks-en Caicoseilanden",
+        "common": "Turks-en Caicoseilanden"
+      },
+      "per": {
+        "official": "جزایر تورکس و کایکوس",
+        "common": "جزایر تورکس و کایکوس"
+      },
+      "pol": {
+        "official": "Turks i Caicos",
+        "common": "Turks i Caicos"
+      },
+      "por": {
+        "official": "Ilhas Turks e Caicos",
+        "common": "Ilhas Turks e Caicos"
+      },
+      "rus": {
+        "official": "Теркс и Кайкос острова",
+        "common": "Теркс и Кайкос"
+      },
+      "slk": {
+        "official": "Ostrovy Turks a Caicos",
+        "common": "Turks a Caicos"
+      },
+      "spa": {
+        "official": "Islas Turcas y Caicos",
+        "common": "Islas Turks y Caicos"
+      },
+      "swe": {
+        "official": "Turks- och Caicosöarna",
+        "common": "Turks- och Caicosöarna"
+      },
+      "urd": {
+        "official": "جزائر کیکس و ترکیہ",
+        "common": "جزائر کیکس و ترکیہ"
+      },
+      "zho": {
+        "official": "特克斯和凯科斯群岛",
+        "common": "特克斯和凯科斯群岛"
+      }
+    },
+    "latlng": [21.75, -71.58333333],
+    "landlocked": false,
+    "area": 948,
+    "demonyms": {
+      "eng": {
+        "f": "Turks and Caicos Islander",
+        "m": "Turks and Caicos Islander"
+      }
+    },
+    "flag": "🇹🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
+    },
+    "population": 38718,
+    "fifa": "TCA",
+    "car": {
+      "signs": ["GB"],
+      "side": "left"
+    },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tc.png",
+      "svg": "https://flagcdn.com/tc.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [21.46, -71.14]
+    },
+    "postalCode": {
+      "format": "TKCA 1ZZ",
+      "regex": "^(TKCA 1ZZ)$"
+    }
+  }
+]
